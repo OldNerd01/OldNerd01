@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OldNerd01 aka Murray also Proprietor of Tech Harmony
 - 👀 I’m interested in ... Local resilience and regional resources 
-- 🌱 I’m currently learning ... Android Studio
-- 💞️ I’m looking to collaborate on ... a series of Apps with our Developer, Peter.
+- 🌱 I’m currently learning ... Javascript and React Native
+- 💞️ I’m looking to collaborate on ... a series of Apps with our Developer, Math Girl.
 - 📫 How to reach me ... +61403539214
 
 <!---
